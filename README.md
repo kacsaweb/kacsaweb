@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: 1kacsa1
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Inm hungarian
+- ⚡ Fun fact: ... Im hungarian
 
 <!---
 kacsaweb/kacsaweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
